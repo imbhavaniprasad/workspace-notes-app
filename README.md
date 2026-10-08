@@ -4,7 +4,7 @@ A small multi-tenant app: **workspaces** contain **projects**, projects contain 
 
 Stack: TypeScript, Next.js 16 (App Router, Server Components, Server Actions), Supabase (Postgres 17 + Auth) running locally in Docker, zod, Vitest.
 
-> Screen recording: _link to be added_
+> **Screen recording (demo + edge cases):** https://drive.google.com/file/d/13Jvo1tG5zWRT7YXpk8cihoEfYWS95BGx/view?usp=sharing
 
 ---
 
